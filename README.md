@@ -4,9 +4,10 @@
 Hello! My name is [zzlu].  
 This repository is part of my learning journey with GitHub and AI-assisted software development. I use it to practice creating and publishing webpages using GitHub Pages.
 
-## Purpose of This Repository
-This repository is used to host my personal GitHub Pages website.  
-It contains HTML, CSS, and other resources used to build and maintain the website.
+This repository serves as the central hub for my CS351 course work.  
+It connects my [personal GitHub Pages website](https://zzdonkey0327.github.io),
+[Project 0: Two Sum](https://github.com/zzdonkey0327/11402_CS351_Project0),
+and [Project B: CSV Mini Database and Query Engine](https://github.com/zzdonkey0327/11402_CS351_ProjectB).
 
 ## GitHub Pages Website
 You can visit my website here:  
